@@ -43,8 +43,10 @@ who participated in this project.
 ## Acknowledgments
 
 - [Google Scholar](https://scholar.google.com/)
-- [Java Doc](https://docs.oracle.com/javase/8/javase-books.htm)
 - [Wikipedia](https://www.wikipedia.org/)
+- [CC Library](https://cypresscollege.libguides.com/az/databases)
+- [FC Library](https://library.fullcoll.edu/)
+- [OC Library](https://orangecoastcollege.edu/academics/library/index.html)
 - [GeeksforGeeks: Time Complexity](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
 - [GeeksforGeeks: Big-O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 - [Big-O Chart: Eric](https://www.bigocheatsheet.com/)
